@@ -4,9 +4,9 @@
 %BeginFont
 Handler:DirectoryHandler
 FontType:Invalid
-OutlineFileName:/Users/aaron/Desktop/CharterBrand-Changes Folder/Document fonts/AdobeFnt23.lst
-FileLength:603
-FileModTime:719932455
+OutlineFileName:/Users/aaron/Desktop/Charter Master Brand/Charter-Master-Brand-/CharterBrand-Changes Folder/Document fonts/AdobeFnt23.lst
+FileLength:798
+FileModTime:719943020
 %EndFont
 
 %BeginFont
@@ -22,7 +22,7 @@ WidthClass:5
 AngleClass:0
 FullName:Minion Pro
 WritingScript:Roman
-OutlineFileName:/Users/aaron/Desktop/CharterBrand-Changes Folder/Document fonts/MinionPro-Regular.otf
+OutlineFileName:/Users/aaron/Desktop/Charter Master Brand/Charter-Master-Brand-/CharterBrand-Changes Folder/Document fonts/MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
